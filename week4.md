@@ -24,7 +24,7 @@ Route:::get('/book/{id}', function ($id) {
 
 
 ## Questions
-- A GET route `/book` which accepts optional book id and the book id must be decimal number only, like 12, 33, and its range is from 9 to 1000.
+- A GET route `/book` which accepts optional book id and the book id must be decimal number only.
 - A REDIRECT route from `/trucks` to `/vans` and redirect type is permanent.
 - A GET route `/mailto` which accepts an optional parameter recipient (string), the recipient default is `admin`.
 - A POST route `/register` which will handle with name and password, the callback function should print signup form name and password. CSRF is required in the form.
