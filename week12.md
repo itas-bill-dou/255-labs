@@ -65,4 +65,4 @@ services:
 
 Show me when you complete the lab.
 
-Last udpate: Nov 23,2022
+Last update: Nov 23,2022
